@@ -1,3 +1,5 @@
+![Wendy Susanto](assets/banner.png)
+
 # Hi, I'm Wendy 👋
 
 Full-Stack Software Engineer specializing in .NET, Azure, React, and TypeScript.
